@@ -1,0 +1,92 @@
+.col-1, .col-2, .col-3, .col-4, .col-6, .col-8, .col-10  {
+    /* text-align: center; */
+    border: 1px solid white;
+}
+
+body {
+    background-color: black;
+    color: rgb(200,200,200);
+}
+
+#maxSco {
+    width: 3rem;
+}
+
+
+.chbxRounds {
+    height: 15px;
+    width: 15px;
+}
+
+
+/* 
+#scoDisplayContainer {
+    height: 50px;
+}
+*/
+
+
+#scoDisplay {
+    font-size: 3rem;
+} 
+
+#forButtons {
+    text-align: center;
+}
+#buttonTest {
+    position: relative;
+}
+
+#dicePic {
+    width: 150px;
+
+}
+
+
+#avaSelect {
+    width: 200px;
+}
+
+#avaOpt1 {
+     background-image:url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png");
+}
+
+
+
+.btn-ava {
+    width: 80px;
+    background-color: black;
+    border: none;
+    border-radius: 50%;
+  
+}
+
+.imgAva {
+    width: 60px;
+    background-color: black;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+
+.imgAva:hover {
+    width: 70px;
+    height: 70px;
+    background-color: grey;
+}
+
+.imgAva:active {
+    width: 65px;
+    height: 65px;
+   background-color: rgb(154, 221, 154);
+}
+
+
+.selImgAva {
+    width: 110px;
+    height: 110px;
+    background-color: rgb(51, 65, 78);
+    border: 1px solid grey;
+    border-radius: 25%;
+}
+
+
